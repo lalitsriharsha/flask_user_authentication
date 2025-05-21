@@ -25,19 +25,7 @@ This is a user authentication web application built with Flask and integrated wi
 
 ## Project Structure
 
-|── manage.py
-|── static/ 
-	|── #image
-|── web_app/ 
-	|── templates
-		|── login.html 
-		|── register.html
-		|── reset_password.html
-		|── dashboard.html
-		|── home.html
-	|── urls.py
-	|── views.py
-	|── cassandra_utils.py
+<pre> app/ ├── app.py ├── templates/ │ ├── login.html │ ├── register.html │ ├── reset_password.html │ ├── dashboard.html │ └── home.html ├── static/ │ └── #image </pre>
  
 
 ## Database Schema
