@@ -67,4 +67,16 @@ This is a user authentication web application built with Flask and integrated wi
 Install the dependencies
 	pip install -r requirements.txt
 
+## Manual Testing
+•	Registering a new user
+•	Logging in with the valid/invalid credentials
+•	Feature to reset password, if forgotten
+•	Login and Logout
+
+## Limitations and Future Scope
+•	Only basic authentication done for password reset.
+•	Currently supports only basic authentication.
+•	Future versions may include:
+	o	Multi-factor authentication
+	o	A better dashboard
 
