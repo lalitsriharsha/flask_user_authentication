@@ -52,8 +52,13 @@ This is a user authentication web application built with Flask and integrated wi
 
 ## Installations
 
-Install the dependencies
-	pip install -r requirements.txt
+## Installation
+
+Install the required dependencies by running:
+
+```bash
+pip install -r requirements.txt
+```
 
 ## Manual Testing
 •	Registering a new user
